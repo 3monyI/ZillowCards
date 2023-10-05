@@ -53,3 +53,7 @@
 a {
     text-decoration: none;
 }
+.card-area {
+    display: flex;
+    flex-wrap: wrap;
+}
